@@ -224,14 +224,19 @@ part1_data_cleaning/
 ```
 
 ---
+## Screenshots
 
-## Screenshots Included
+### Raw Dataset Preview
+![Raw Dataset](screenshots/raw_data_preview.png)
 
-* Raw Dataset Preview
-* Cleaned Dataset Preview
-* Sales and Profit by Region Pivot Summary
-* Sales and Profit by Category and Sub-Category Pivot Summary
+### Cleaned Dataset Preview
+![Cleaned Dataset](screenshots/cleaned_data_preview.png)
 
+### Sales and Profit by Region
+![Sales and Profit by Region](screenshots/pivot_summary_1.png)
+
+### Sales and Profit by Category and Sub-Category
+![Category Analysis](screenshots/pivot_summary_2.png)
 ---
 
 ## Conclusion
