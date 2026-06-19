@@ -213,20 +213,19 @@ Refunded orders were retained and reported separately for business review.
 
 ### Raw Dataset Preview
 
-![Raw Dataset](screenshots/raw_data_preview.png)
+![Raw Dataset](../screenshots/raw_data_preview.png)
 
 ### Cleaned Dataset Preview
 
-![Cleaned Dataset](screenshots/cleaned_data_preview.png)
+![Cleaned Dataset](../screenshots/cleaned_data_preview.png)
 
 ### Sales and Profit by Region
 
-![Sales and Profit by Region](screenshots/pivot_summary_1.png)
+![Sales and Profit by Region](../screenshots/pivot_summary_1.png)
 
 ### Sales and Profit by Category and Sub-Category
 
-![Category Analysis](screenshots/pivot_summary_2.png)
-
+![Category Analysis](../screenshots/pivot_summary_2.png)
 
 ## Final Outcome
 
