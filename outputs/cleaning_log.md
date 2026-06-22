@@ -6,9 +6,9 @@
 
 | Item                            | Count |
 | ------------------------------- | ----- |
-| Original Records                | 934   |
+| Original Records                | 933   |
 | Final Cleaned Records           | 913   |
-| Exact Duplicate Records Removed | 21    |
+| Exact Duplicate Records Removed | 20    |
 
 ---
 
@@ -22,8 +22,8 @@
 
 ### Duplicate Records
 
-* Exact Duplicate Records: 21
-* Duplicate Order ID Occurrences: 63
+* Exact Duplicate Records: 20
+* Duplicate Order ID Occurrences: 31
 
 ### Discount Issues
 
@@ -98,7 +98,7 @@ Actions performed:
 Actions performed:
 
 * Identified exact duplicate rows.
-* Removed 21 exact duplicate records.
+* Removed 20 exact duplicate records.
 * Identified duplicate Order IDs.
 * Retained duplicate Order IDs for business review.
 * Flagged duplicate Order IDs for further investigation.
@@ -178,7 +178,7 @@ Refunded orders were retained and reported separately for business review.
 
 | Record Type             | Count |
 | ----------------------- | ----- |
-| Exact Duplicate Records | 21    |
+| Exact Duplicate Records | 20    |
 
 ---
 
@@ -186,7 +186,7 @@ Refunded orders were retained and reported separately for business review.
 
 | Issue                    | Count |
 | ------------------------ | ----- |
-| Duplicate Order IDs      | 63    |
+| Duplicate Order IDs      | 31    |
 | Invalid Discount Records | 16    |
 | Invalid Shipping Records | 93    |
 
